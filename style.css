@@ -660,10 +660,9 @@ a {
   .features__item01 {
     margin: 0 auto;
   }
-}
-
-.features__item01 br {
-  display: none;
+  .features__item01 br {
+    display: none;
+  }
 }
 
 .features__item02 {
@@ -675,10 +674,9 @@ a {
   .features__item02 {
     margin: 0 auto;
   }
-}
-
-.features__item02 br {
-  display: none;
+  .features__item02 br {
+    display: none;
+  }
 }
 
 .features__item03 {
@@ -690,10 +688,9 @@ a {
   .features__item03 {
     margin: 0 auto;
   }
-}
-
-.features__item03 br {
-  display: none;
+  .features__item03 br {
+    display: none;
+  }
 }
 
 .features__txt-lg {
